@@ -1,5 +1,1 @@
-export enum Movements {
-  L = 'L',
-  R = 'R',
-  F = 'F'
-}
+export const MOVEMENTS = ['L', 'R', 'F'];
